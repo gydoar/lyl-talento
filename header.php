@@ -2,7 +2,15 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title><?php bloginfo('name' ); ?></title>
+
+	<meta name="description" content="<?php bloginfo('description' ); ?>">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
 	<link rel="stylesheet" href="<?php bloginfo('template_url' ); ?>/css/normalize.css">
 	<link rel="stylesheet" href="<?php bloginfo('template_url' ); ?>/css/skeleton.css">
 	<link rel="stylesheet" href="<?php bloginfo('template_url' ); ?>/style.css">
@@ -12,7 +20,8 @@
 
 
 
-
+	<script src="<?php bloginfo('template_url' ); ?>/js/modernizr.custom.min"></script>
+	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 	<script src="<?php bloginfo('template_url' ); ?>/js/owl.carousel.js"></script>
 	<script>
