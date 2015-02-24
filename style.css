@@ -50,7 +50,7 @@ nav.menu-top ul li a:hover{
 	margin: 0 auto;
 	max-width: 550px;
 }
-.nosotros h2, .nuestros-servicios-title h2{
+.nosotros h2, .nuestros-servicios-title h2,.page h2{
 	font-weight: 500;
 	font-size: 1.8em;
 	letter-spacing: 1px;
@@ -97,15 +97,15 @@ nav.menu-top ul li a:hover{
 ul.valores li{
 	margin-bottom: 0;
 }
-.nuestros-servicios h4{
+.nuestros-servicios h4,.page h4{
 	font-weight: 500;
 	font-size: 1em;
 	color: #219fd8;
 	margin-bottom: 5px;
 }
 
-.nuestros-servicios h4:before{
-	content: " " url("img/cuadro.png");
+.nuestros-servicios h4:before,.page h4:before{
+	content: " " url("img/cuadro.png") "  ";
 }
 
 .nuestros-servicios img{
@@ -152,6 +152,7 @@ a.button.button-primary{
 	font-weight: 500;
 	letter-spacing: 1px;
 }
+
 .color-footer{
 	background-color: #001640;
 }
@@ -173,6 +174,12 @@ footer p a{
 footer p, footer img{
 	vertical-align: middle;
 }
+
+
+article.page{
+	padding: 30px 0px;
+}
+
 
 
 /* Media Queries

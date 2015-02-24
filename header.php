@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title><?php bloginfo('name' ); ?></title>
+	<title><?php bloginfo('name' ); ?> | <?php bloginfo('description' ); ?></title>
 
 	<meta name="description" content="<?php bloginfo('description' ); ?>">
 
@@ -21,7 +21,7 @@
 
 
 	<script src="<?php bloginfo('template_url' ); ?>/js/modernizr.custom.min"></script>
-	
+
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 	<script src="<?php bloginfo('template_url' ); ?>/js/owl.carousel.js"></script>
 	<script>
@@ -40,8 +40,9 @@
 		 
 		});
 	</script>
+
 </head>
-<body>
+<body <?php body_class(); ?>>
 
 	<header>
 		<div class="container">	

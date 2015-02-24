@@ -7,17 +7,20 @@ Template Name: Página principal
  <?php get_header(); ?>
 	<!-- Banner pagina prinicpal -->
 
+
 	<div class="container">
+	
 
 		<div id="owl-demo" class="owl-carousel owl-theme row">
 		 
 		  <div class="item"><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/banner1.png" alt="Banner1"></a></div>
-
+		 
 		  <div class="item"><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/banner1.png" alt="Banner1"></a></div>
 
 		  <div class="item"><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/banner1.png" alt="Banner1"></a></div>
 		 
 		</div>
+		
 	</div>
 
 	<!-- Nosotros -->
@@ -86,9 +89,9 @@ Template Name: Página principal
 		
 
 		<div class="six columns clearfix">
-			<h4 class="twelve columns">&nbsp;&nbsp;SELECCIÓN Y CONTRATACIÓN DE PERSONAL</h4>
+			<h4 class="twelve columns">&nbsp;&nbsp;ADMINISTRACIÓN DE NÓMINA Y SEGURIDAD</h4>
 
-			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/nuestros-servicios1.png" alt="">
+			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/contratacion-personal.png" alt="">
 			<div class="seven columns clearfix">
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima qui maxime dolor repellendus quas, numquam aliquam perferendis nemo.</p>
 				<a class="button button-primary" href="#">Ver más</a>
@@ -101,9 +104,9 @@ Template Name: Página principal
 	<section class="cajas container nuestros-servicios clearfix">
 			
 		<div class="six columns clearfix">
-			<h4 class="twelve columns">&nbsp;&nbsp;SELECCIÓN Y CONTRATACIÓN DE PERSONAL</h4>
+			<h4 class="twelve columns">&nbsp;&nbsp;ANÁLISIS Y DISEÑO DE CARGOS</h4>
 
-			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/nuestros-servicios1.png" alt="">
+			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/analisis-cargos.png" alt="">
 			<div class="seven columns clearfix">
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima qui maxime dolor repellendus quas, numquam aliquam perferendis nemo.</p>
 				<a class="button button-primary" href="#">Ver más</a>
@@ -112,9 +115,9 @@ Template Name: Página principal
 		
 
 		<div class="six columns clearfix">
-			<h4 class="twelve columns">&nbsp;&nbsp;SELECCIÓN Y CONTRATACIÓN DE PERSONAL</h4>
+			<h4 class="twelve columns">&nbsp;&nbsp;PROCESO DISCIPLINARIO, DESVINCULACIÓN DE PERSONAL</h4>
 
-			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/nuestros-servicios1.png" alt="">
+			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/desvinculacion-personal.png" alt="">
 			<div class="seven columns clearfix">
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima qui maxime dolor repellendus quas, numquam aliquam perferendis nemo.</p>
 				<a class="button button-primary" href="#">Ver más</a>
