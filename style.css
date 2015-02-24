@@ -1,0 +1,175 @@
+/*
+Theme Name: lyl
+*/
+
+
+
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+    border-bottom: 5px solid #219fd8;
+}
+
+
+header{
+	background-color: #1f2c85;
+	padding-top: 20px;
+	padding-bottom: -50px !important;
+	
+}
+
+
+ul#menu-menu-principal{
+	margin: 0px;
+}
+.menu-top ul{
+	padding-top: 30px;
+}
+nav.menu-top ul li{
+	display: inline-block;
+}
+
+nav.menu-top ul li:nth-child(2),nav.menu-top ul li:nth-child(1){
+	border-right: 1px solid #fff;
+}
+
+nav.menu-top ul li a{
+	text-decoration: none;
+	color: #ffffff;
+	padding: 13px 20px ;
+}
+nav.menu-top ul li a:hover{
+	background-color: #219fd8;
+	padding: 13px 20px ;
+}
+
+.nosotros{
+	text-align: center;
+	margin: 0 auto;
+	max-width: 550px;
+}
+.nosotros h2, .nuestros-servicios-title h2{
+	font-weight: 500;
+	font-size: 1.8em;
+	letter-spacing: 1px;
+}
+.nosotros h2, .nosotros img, .nuestros-servicios h2, .ventajas h2,.ventajas img, .ventajas p{
+	vertical-align: middle;
+}
+.nosotros p{
+	line-height: 18px;
+	font-size: 0.9em;
+	color: #5c5c5c;
+}
+.cajas{
+	margin-top: 40px;
+}
+.bg-gray{
+	background: #f7f7f8;
+	padding: 20px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-ms-border-radius: 10px;
+}
+.align-left{
+	text-align: left;
+}
+
+.align-center{
+	text-align: center;
+}
+.align-right{
+	text-align: right;
+}
+.cajas h3{
+	font-weight: 500;
+	font-size: 1.5em;
+	margin-bottom: 3px;
+}
+.cajas p, .nuestros-servicios p{
+	line-height: 18px;
+	font-size: 0.9em;
+}
+ul.valores li{
+	margin-bottom: 0;
+}
+.nuestros-servicios h4{
+	font-weight: 500;
+	font-size: 1em;
+	color: #219fd8;
+	margin-bottom: 5px;
+}
+
+.nuestros-servicios h4:before{
+	content: " " url("img/cuadro.png");
+}
+
+.nuestros-servicios img{
+	border: 6px solid #f6f6f7
+}
+a.button.button-primary{
+	margin-left: 60px;
+}
+.color-blue{
+	background-color: #219fd8;
+	padding-top: 50px;
+	margin-top: 50px;
+	padding-bottom: 50px;
+}
+.ventajas h2{
+	font-size: 1.8em;
+	letter-spacing: 1px;
+	color: #ffffff;
+}
+.ventajas h2 span{
+	font-weight: 500;
+	margin-left: 20px;
+}
+.ventajas p{
+	color: #ffffff;
+}
+.title-ventajas{
+	margin-bottom: 30px;
+}
+.blue-fuerte{
+	padding: 50px 0px;
+	background-color: #1f2c85;
+}
+.contacto{
+	color: #ffffff;
+	text-align: center;
+}
+.contacto p{
+	margin: 0;
+}
+.contacto h3{
+	font-size: 1.5em;
+	color: #ffffff;
+	font-weight: 500;
+	letter-spacing: 1px;
+}
+.color-footer{
+	background-color: #001640;
+}
+footer.container{
+	padding: 20px 0px;
+	color: #ffffff;
+	text-align: center;
+}
+footer p {
+	margin: 0;
+	font-size: 0.8em;
+	color: #c3c5cb;
+}
+footer p a{
+	text-decoration: none;
+	color: #c3c5cb;
+}
+
+footer p, footer img{
+	vertical-align: middle;
+}
