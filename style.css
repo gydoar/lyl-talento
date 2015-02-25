@@ -146,6 +146,9 @@ a.button.button-primary{
 .contacto p{
 	margin: 0;
 }
+.contacto a{
+	text-decoration: none;
+}
 .contacto h3{
 	font-size: 1.5em;
 	color: #ffffff;
@@ -178,6 +181,7 @@ footer p, footer img{
 
 article.page{
 	padding: 30px 0px;
+	line-height: 1.4em;
 }
 
 p.icon-map:before{
