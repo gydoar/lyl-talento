@@ -51,7 +51,7 @@
 				<!-- Logo principal -->
 				<a class="offset-by-one three columns" href="<?php echo home_url('/'); ?>"><img width="160px" src="<?php bloginfo('template_url' ); ?>/img/logo.png" alt="L&L Talento"></a>
 				<!-- Menu principal -->
-				<nav class="offset-by-three five columns menu-top">
+				<nav class="offset-by-one seven columns menu-top">
 					<?php wp_nav_menu(array(
 					'container'=>false,
 					'item_wrap'=>'<ul id="menu-header">%3$s</ul>',

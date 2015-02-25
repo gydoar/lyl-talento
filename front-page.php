@@ -139,7 +139,7 @@ Template Name: Página principal
 				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/1.png" alt="">&nbsp;&nbsp;No ofrecemos intermediación laboral.</p><br>
 
 				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/2.png" alt="">&nbsp;&nbsp;Total confidencialidad en los procesos e información.</p>
-				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/3.png" alt="">&nbsp;&nbsp;Tercerización del proceso, pero sigue siendo el dueno de la información.</p>
+				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/3.png" alt="">&nbsp;&nbsp;Tercerización del proceso, pero sigue siendo el dueño de la información.</p>
 			</section>
 			<section class="four columns">
 				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/4.png" alt="">&nbsp;&nbsp;Reducción significativa de costos para la empresa.</p>

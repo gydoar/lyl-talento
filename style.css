@@ -31,7 +31,7 @@ nav.menu-top ul li{
 	display: inline-block;
 }
 
-nav.menu-top ul li:nth-child(2),nav.menu-top ul li:nth-child(1){
+nav.menu-top ul li:nth-child(2),nav.menu-top ul li:nth-child(1),nav.menu-top ul li:nth-child(3){
 	border-right: 1px solid #fff;
 }
 
@@ -204,6 +204,10 @@ p.icon-mail:before{
 .icon-cont p.icon-movil:before, .icon-cont p{
 	vertical-align: middle;
 }
+.error{
+	color: #f50;
+}
+
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /*
