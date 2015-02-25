@@ -84,7 +84,13 @@
             <br>
             <div style="max-width:700px;margin:0 auto;"class="row">    
             <div class="six columns">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui illum autem, facere asperiores quibusdam delectus omnis sunt dicta eligendi veritatis beatae ducimus ex pariatur tempore culpa debitis, repellat et eum.
+                <iframe class="twelve columns" width="425" height="220" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.es/maps?q=4.64213,-74.078542&amp;num=1&amp;ie=UTF8&amp;ll=4.636826,-74.079394&amp;spn=0.007699,0.011222&amp;t=m&amp;z=14&amp;output=embed"></iframe>
+
+                <div class="icon-cont twelve columns">
+                    <p class="icon-map">&nbsp;&nbsp;Cra 80b No 56 - 65 sur | Bogotá Colombia</p>
+                    <p class="icon-movil">&nbsp;&nbsp;776 32 93 - 300 256 4420</p>
+                    <p class="icon-mail"><a href="mailto:direjecutiva@lyltalento.com">&nbsp;&nbsp;direjecutiva@lyltalento.com</a></p>
+                </div>
 
             </div>
             <div class="six columns">

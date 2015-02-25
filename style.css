@@ -180,6 +180,26 @@ article.page{
 	padding: 30px 0px;
 }
 
+p.icon-map:before{
+	content: " " url("img/icon-map.png") "  ";
+}
+p.icon-movil:before{
+	content: " " url("img/icon-movil.png") "  ";
+}
+p.icon-mail:before{
+	content: " " url("img/icon-mail.png") "  ";
+}
+.icon-cont{
+	margin-top: 30px;
+}
+.icon-cont p{
+	margin-bottom: 10px;
+	font-weight: 500;
+	font-size: 14px;
+}
+.icon-cont p.icon-movil:before, .icon-cont p{
+	vertical-align: middle;
+}
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /*
