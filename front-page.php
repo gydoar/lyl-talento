@@ -82,8 +82,8 @@ Template Name: Página principal
 
 			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/nuestros-servicios1.png" alt="">
 			<div class="seven columns clearfix">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima qui maxime dolor repellendus quas, numquam aliquam perferendis nemo.</p>
-				<a class="button button-primary" href="#">Ver más</a>
+				<p>Realizamos la contratación del personal garantizando el cumplimiento en cuanto a documentos requerios, afiliamos al sistema...</p>
+				<a class="button button-primary" href="<?php echo home_url('/servicios'); ?>">Ver más</a>
 			</div>
 		</div>
 		
@@ -93,8 +93,8 @@ Template Name: Página principal
 
 			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/contratacion-personal.png" alt="">
 			<div class="seven columns clearfix">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima qui maxime dolor repellendus quas, numquam aliquam perferendis nemo.</p>
-				<a class="button button-primary" href="#">Ver más</a>
+				<p>Basados en las novedades entregadas periódicamente por la empresa cliente, procesamos la nómina y entregamos archivos con información...</p>
+				<a class="button button-primary" href="<?php echo home_url('/servicios'); ?>">Ver más</a>
 			</div>
 		</div>
 
@@ -108,8 +108,8 @@ Template Name: Página principal
 
 			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/analisis-cargos.png" alt="">
 			<div class="seven columns clearfix">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima qui maxime dolor repellendus quas, numquam aliquam perferendis nemo.</p>
-				<a class="button button-primary" href="#">Ver más</a>
+				<p>Realizamos la descripción de las obligaciones y responsabilidades que distinguen de los demás cargos y procedimientos...</p>
+				<a class="button button-primary" href="<?php echo home_url('/servicios'); ?>">Ver más</a>
 			</div>
 		</div>
 		
@@ -119,8 +119,8 @@ Template Name: Página principal
 
 			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/desvinculacion-personal.png" alt="">
 			<div class="seven columns clearfix">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima qui maxime dolor repellendus quas, numquam aliquam perferendis nemo.</p>
-				<a class="button button-primary" href="#">Ver más</a>
+				<p>El empleador puede sancionar disciplinariamente a los trabajadores que incumplan con los deberes generales, obligaciones...</p>
+				<a class="button button-primary" href="<?php echo home_url('/servicios'); ?>">Ver más</a>
 			</div>
 		</div>
 
