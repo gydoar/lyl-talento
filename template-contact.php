@@ -157,7 +157,7 @@
                 </form>
                 <?php } ?>
 
-                </div>
+            </div>
         </div><!-- /row -->
 
             </section><!-- end of .post-entry -->
