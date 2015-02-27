@@ -8,8 +8,10 @@
 	<meta name="description" content="<?php bloginfo('description' ); ?>">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<link rel="icon" type="image/png" href="<?php bloginfo('template_url' ); ?>/images/favicon.png">
 
-    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="apple-touch-icon" href="<?php bloginfo('template_url' ); ?>/images/apple-touch.png">
 
 	<link rel="stylesheet" href="<?php bloginfo('template_url' ); ?>/css/normalize.css">
 	<link rel="stylesheet" href="<?php bloginfo('template_url' ); ?>/css/skeleton.css">
