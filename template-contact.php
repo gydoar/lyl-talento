@@ -84,7 +84,7 @@
             <br>
             <div style="max-width:700px;margin:0 auto;"class="row">    
             <div class="six columns">
-                <iframe class="twelve columns" width="425" height="220" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.es/maps?q=4.64213,-74.078542&amp;num=1&amp;ie=UTF8&amp;ll=4.636826,-74.079394&amp;spn=0.007699,0.011222&amp;t=m&amp;z=14&amp;output=embed"></iframe>
+                <iframe class="twelve columns "width="425" height="220" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.es/maps?q=4.614358,-74.176589&amp;num=1&amp;ie=UTF8&amp;t=m&amp;z=14&amp;iwloc=A&amp;ll=4.614352,-74.176579&amp;output=embed"></iframe>
 
                 <div class="icon-cont twelve columns">
                     <p class="icon-map">&nbsp;&nbsp;Cra 80b No 56 - 65 sur | Bogotá Colombia</p>
