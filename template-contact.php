@@ -87,7 +87,7 @@
                 <iframe class="twelve columns "width="425" height="220" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.es/maps?q=4.614358,-74.176589&amp;num=1&amp;ie=UTF8&amp;t=m&amp;z=14&amp;iwloc=A&amp;ll=4.614352,-74.176579&amp;output=embed"></iframe>
 
                 <div class="icon-cont twelve columns">
-                    <p class="icon-map">&nbsp;&nbsp;Cra 80b No 56 - 65 sur | Bogotá Colombia</p>
+                    <p class="icon-map">&nbsp;&nbsp;Cra 80B No 56 - 65 | Bogotá Colombia</p>
                     <p class="icon-movil">&nbsp;&nbsp;776 32 93 - 300 256 4420</p>
                     <p class="icon-mail"><a href="mailto:direjecutiva@lyltalento.com">&nbsp;&nbsp;direjecutiva@lyltalento.com</a></p>
                 </div>

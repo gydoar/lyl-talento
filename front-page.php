@@ -144,7 +144,7 @@ Template Name: Página principal
 			<section class="four columns">
 				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/4.png" alt="">&nbsp;&nbsp;Reducción significativa de costos para la empresa.</p>
 
-				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/5.png" alt="">&nbsp;&nbsp;Prevenidmos demandas de tipo laboral.</p>
+				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/5.png" alt="">&nbsp;&nbsp;Prevenimos demandas de tipo laboral.</p>
 				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/6.png" alt="">&nbsp;&nbsp;Disminución en las cargas operativas de selección, contratación y liquidación de nómina.</p>
 			</section>
 			<section class="four columns">
@@ -163,7 +163,7 @@ Template Name: Página principal
 			<h3>CONTACTO</h3>
 			<a href="mailto:direjecutiva@lyltalento.com">direjecutiva@lyltalento.com</a>
 			<p><strong>Tel:</strong> (+57) 1 776 3293 - <strong>Cel:</strong> 300 256 4420</p>
-			<p>Cra 80b No 56 - 65 sur | Bogotá - Colombia</p>
+			<p>Cra 80B No 56 - 65 | Bogotá - Colombia</p>
 		</section>
 	</div>
 
