@@ -13,11 +13,11 @@ Template Name: Página principal
 
 		<div id="owl-demo" class="owl-carousel owl-theme row">
 		 
-		  <div class="item"><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/banner1.png" alt="Banner1"></a></div>
+		  <div class="item"><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/banners1.jpg" alt="Banner1"></a></div>
 		 
-		  <div class="item"><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/banner1.png" alt="Banner1"></a></div>
+		  <div class="item"><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/banners2.jpg" alt="Banner1"></a></div>
 
-		  <div class="item"><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/banner1.png" alt="Banner1"></a></div>
+		  <div class="item"><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/banners3.jpg" alt="Banner1"></a></div>
 		 
 		</div>
 		
