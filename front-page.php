@@ -35,7 +35,8 @@ Template Name: Página principal
 	<!-- 3 servicios -->
 	<section class="cajas container">
 		<div class="row">
-			<section class="align-right four columns">
+
+			<section class="caja1 align-right four columns">
 				<h3>Misión</h3>
 				<img style="text-align:center;" src="<?php bloginfo('template_url' ); ?>/img/line-blue.png" alt="">
 				<article class="bg-gray">
@@ -43,7 +44,7 @@ Template Name: Página principal
 				</article>
 			</section>
 
-			<section class="align-center four columns">
+			<section class="caja2 align-center four columns">
 				<h3>Visión</h3>
 				<img style="text-align:center;" src="<?php bloginfo('template_url' ); ?>/img/line-blue.png" alt="">
 				<article class="bg-gray">
@@ -51,7 +52,7 @@ Template Name: Página principal
 				</article>
 			</section>
 
-			<section class="align-left four columns">
+			<section class="caja3 align-left four columns">
 				<h3>Valores</h3>
 				<img style="text-align:center;" src="<?php bloginfo('template_url' ); ?>/img/line-blue.png" alt="">
 				<article class="bg-gray">
@@ -82,7 +83,7 @@ Template Name: Página principal
 
 			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/nuestros-servicios1.png" alt="">
 			<div class="seven columns clearfix">
-				<p>Realizamos la contratación del personal garantizando el cumplimiento en cuanto a documentos requerios, afiliamos al sistema...</p>
+				<p>Realizamos la contratación del personal garantizando el cumplimiento en cuanto a documentos requerios...</p>
 				<a class="button button-primary" href="<?php echo home_url('/servicios'); ?>">Ver más</a>
 			</div>
 		</div>
@@ -93,7 +94,7 @@ Template Name: Página principal
 
 			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/contratacion-personal.png" alt="">
 			<div class="seven columns clearfix">
-				<p>Basados en las novedades entregadas periódicamente por la empresa cliente, procesamos la nómina y entregamos archivos con información...</p>
+				<p>Basados en las novedades entregadas periódicamente por la empresa cliente, procesamos la nómina...</p>
 				<a class="button button-primary" href="<?php echo home_url('/servicios'); ?>">Ver más</a>
 			</div>
 		</div>
@@ -104,22 +105,22 @@ Template Name: Página principal
 	<section class="cajas container nuestros-servicios clearfix">
 			
 		<div class="six columns clearfix">
-			<h4 class="twelve columns">&nbsp;&nbsp;ANÁLISIS Y DISEÑO DE CARGOS</h4>
+			<h4 class="twelve columns">&nbsp;&nbsp;PROCESO DISCIPLINARIO, DESVINCULAIÓN DE PERSONAL</h4>
 
-			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/analisis-cargos.png" alt="">
+			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/proceso-disciplinario-desvinculacion-de-personal.jpg" alt="">
 			<div class="seven columns clearfix">
-				<p>Realizamos la descripción de las obligaciones y responsabilidades que distinguen de los demás cargos y procedimientos...</p>
+				<p>Realizamos la descripción de las obligaciones y responsabilidades que distinguen de los demás cargos...</p>
 				<a class="button button-primary" href="<?php echo home_url('/servicios'); ?>">Ver más</a>
 			</div>
 		</div>
 		
 
 		<div class="six columns clearfix">
-			<h4 class="twelve columns">&nbsp;&nbsp;PROCESO DISCIPLINARIO, DESVINCULACIÓN DE PERSONAL</h4>
+			<h4 class="twelve columns">&nbsp;&nbsp;AUDITORIAS EN COMPENSACIÓN Y PAGOS LABORALES</h4>
 
-			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/desvinculacion-personal.png" alt="">
+			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/Auditorias-en-compensacion-y-pagos-laborales.jpg" alt="">
 			<div class="seven columns clearfix">
-				<p>El empleador puede sancionar disciplinariamente a los trabajadores que incumplan con los deberes generales, obligaciones...</p>
+				<p>El empleador puede sancionar disciplinariamente a los trabajadores que incumplan con los deberes...</p>
 				<a class="button button-primary" href="<?php echo home_url('/servicios'); ?>">Ver más</a>
 			</div>
 		</div>
@@ -131,30 +132,59 @@ Template Name: Página principal
 
 	<div class="color-blue">
 		<div class="container ventajas title-ventajas">
-			<h2 class="clearfix"><img width="16px" src="<?php bloginfo('template_url' ); ?>/img/vineta2.png" alt=""> VENTAJAS <br><span>DE CONTRATAR CON NOSOTROS</span></h2>
+			<h2 class="clearfix"><img width="13px" src="<?php bloginfo('template_url' ); ?>/img/vineta2.png" alt=""> &nbsp;VENTAJAS <br><span>&nbsp;DE CONTRATAR CON NOSOTROS</span></h2>
 		</div>
 		<section class="container ventajas">
 
 			<section class="four columns">
 				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/1.png" alt="">&nbsp;&nbsp;No ofrecemos intermediación laboral.</p><br>
 
-				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/2.png" alt="">&nbsp;&nbsp;Total confidencialidad en los procesos e información.</p>
-				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/3.png" alt="">&nbsp;&nbsp;Tercerización del proceso, pero sigue siendo el dueño de la información.</p>
+				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/2.png" alt="">&nbsp;&nbsp;Total confidencialidad en los procesos <span>e información.</span>e información.</p>
+				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/3.png" alt="">&nbsp;&nbsp;Tercerización del proceso, pero sigue <span>siendo el dueño de la información.</span></p>
 			</section>
 			<section class="four columns">
-				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/4.png" alt="">&nbsp;&nbsp;Reducción significativa de costos para la empresa.</p>
+				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/4.png" alt="">&nbsp;&nbsp;Reducción significativa de costos para <span>la empresa.</span></p>
 
-				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/5.png" alt="">&nbsp;&nbsp;Prevenimos demandas de tipo laboral.</p>
-				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/6.png" alt="">&nbsp;&nbsp;Disminución en las cargas operativas de selección, contratación y liquidación de nómina.</p>
+				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/5.png" alt="">&nbsp;&nbsp;Prevenimos demandas de tipo <span>laboral.</span></p>
+
+				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/6.png" alt="">&nbsp;&nbsp;Disminución en las cargas operativas <span>de selección, contratación y</span><span> liquidación de nómina.</span> </p>
 			</section>
 			<section class="four columns">
 				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/7.png" alt="">&nbsp;&nbsp;Asesoría jurídica en Gestión Laboral.</p><br>
 
-				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/8.png" alt="">&nbsp;&nbsp;Correcto manejo de las obligaciones laborales establecidas por la ley.</p>
-				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/9.png" alt="">&nbsp;&nbsp;Diagnosticamos, analizamos y solucionamos los inconvenientes relacionados con el personal contratado.</p>
+				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/8.png" alt="">&nbsp;&nbsp;Correcto manejo de las obligaciones <span>laborales establecidas por la ley.</span></p>
+				<p><img width="28px" src="<?php bloginfo('template_url' ); ?>/img/9.png" alt="">&nbsp;&nbsp;Diagnosticamos, analizamos y <span>solucionamos los inconvenientes</span><span> relacionados con el personal</span>  <span>contratado.</span></p>
 			</section>
 		</section>
 	</div>
+
+	<!-- Clientes -->
+	<section class="clientes container">
+
+		<div class="cajas">
+			<h2><img width="16px" src="<?php bloginfo('template_url' ); ?>/img/vineta1.png" alt=""> Clientes</h2>
+		</div>
+
+		<ul class="clientes">
+			<li><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/transit.jpg" alt=""></a></li>
+			
+			<li><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/ofisa.jpg" alt=""></a></li>
+
+			<li><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/crear-valor.jpg" alt=""></a></li>
+
+			<li><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/fremac.jpg" alt=""></a></li>
+
+			<li><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/acesoria-y-consultorias.jpg" alt=""></a></li>
+
+			<li><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/os.jpg" alt=""></a></li>
+
+			<li><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/l-y-c.jpg" alt=""></a></li>
+
+			<li><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/lubri-tired.jpg" alt=""></a></li>
+
+			<li><a href="#"><img src="<?php bloginfo('template_url' ); ?>/img/securexa.jpg" alt=""></a></li>
+		</ul>
+	</section>
 
 	<!-- Footer contacto -->
 
