@@ -17,7 +17,8 @@
 
 		</div>
 
-		<div class="five columns">
+		<div style="margin-bottom:0px;" class="five columns">
+
 			<?php echo do_shortcode( '[contact-form-7 id="37" title="Formulario de contacto 1"]' ); ?>
 			
 

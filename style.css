@@ -114,9 +114,13 @@ ul.valores li{
 	content: " " url("img/cuadro.png") "  ";
 }
 
-.nuestros-servicios img{
+.nuestros-servicios img,article.page img{
 	border: 8px solid #f6f6f7
 }
+article.page h2 img{
+	border: none;
+}
+
 .nuestros-servicios p{
 	margin-top: 20px;
 }
@@ -243,7 +247,9 @@ ul.clientes li{
 .caja3 h3, .caja3 img{
 	margin-left: 50px;
 }
-
+input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required, input.wpcf7-form-control.wpcf7-text,textarea.wpcf7-form-control.wpcf7-textarea,input.wpcf7-form-control.wpcf7-file.wpcf7-validates-as-required{
+	margin-bottom: -10px;
+}
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /*
@@ -259,14 +265,14 @@ there.
 	header{
 		text-align: center;
 	}
-	.ventajas h2{
-	line-height: none;
-	font-size: 16px;
-}
+	
+
 }
 
 /* Larger than phablet (also point when grid becomes active) */
-@media (min-width: 550px) {}
+@media (min-width: 550px) {
+
+}
 
 /* Larger than tablet */
 @media (min-width: 750px) {}
@@ -275,4 +281,6 @@ there.
 @media (min-width: 1000px) {}
 
 /* Larger than Desktop HD */
-@media (min-width: 1200px) {}
+@media (min-width: 1200px) {
+
+}
