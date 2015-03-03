@@ -105,7 +105,7 @@ Template Name: Página principal
 	<section class="cajas container nuestros-servicios clearfix">
 			
 		<div class="six columns clearfix">
-			<h4 class="twelve columns">&nbsp;&nbsp;PROCESO DISCIPLINARIO, DESVINCULAIÓN DE PERSONAL</h4>
+			<h4 class="twelve columns">&nbsp;&nbsp;PROCESO DISCIPLINARIO, DESVINCULACIÓN DE PERSONAL</h4>
 
 			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/proceso-disciplinario-desvinculacion-de-personal.jpg" alt="">
 			<div class="seven columns clearfix">
@@ -116,7 +116,7 @@ Template Name: Página principal
 		
 
 		<div class="six columns clearfix">
-			<h4 class="twelve columns">&nbsp;&nbsp;AUDITORIAS EN COMPENSACIÓN Y PAGOS LABORALES</h4>
+			<h4 class="twelve columns">&nbsp;&nbsp;AUDITORÍAS EN COMPENSACIÓN Y PAGOS LABORALES</h4>
 
 			<img class="four columns clearfix" src="<?php bloginfo('template_url' ); ?>/img/Auditorias-en-compensacion-y-pagos-laborales.jpg" alt="">
 			<div class="seven columns clearfix">
