@@ -253,6 +253,9 @@ ul.clientes li{
 input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required, input.wpcf7-form-control.wpcf7-text,textarea.wpcf7-form-control.wpcf7-textarea,input.wpcf7-form-control.wpcf7-file.wpcf7-validates-as-required{
 	margin-bottom: -10px;
 }
+.post-entry iframe{
+	border: 5px solid #EEEFF1;
+}
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /*
