@@ -8,6 +8,8 @@
 	<meta name="description" content="<?php bloginfo('description' ); ?>">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="keywords" content="nomina,contratación,selección de personal,salud ocupacional,seguridad industrial,asesorías laborales,derecho laboral,demandas,liquidación de prestaciones,consolatorias derecho laboral,liquidaciones,reclutamiento,administración de personal,seguridad social,gestión humana,talento humano,recursos humanos,personal,liquidación de nomina,gestión del talento humano,demandas laborales,prevenir demandas,codigo sustantivo de trabajo,reglamento interno de trabajo,diseño de cargos,procesos disciplinarios,desvinculación de personal,descargos,sistema de gestion en la seguridad y salud en el trabajo,auditorias nomina">
 	
 	<link rel="icon" type="image/png" href="<?php bloginfo('template_url' ); ?>/img/favicon.png">
 
