@@ -42,9 +42,8 @@
 		 
 		});
 	</script>
-
 </head>
-<body <?php body_class(); ?>>
+<body>
 
 	<header>
 		<div class="container">	

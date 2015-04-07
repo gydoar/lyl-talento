@@ -120,6 +120,9 @@ ul.valores li{
 article.page h2 img{
 	border: none;
 }
+article.page p{
+	font-size: 0.9em;
+}
 
 .nuestros-servicios p{
 	margin-top: 20px;
